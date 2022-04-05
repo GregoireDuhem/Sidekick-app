@@ -1,8 +1,4 @@
-# Sidekick
-
-# Sidekick app
-
-# sidekick
+# Sidekick mobile application
 
 Sidekick prototype
 
